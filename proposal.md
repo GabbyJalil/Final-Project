@@ -42,5 +42,6 @@ Gabby
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-- I need to learn how to make a visual novel using Renpy
+- I need to learn how to make a visual novel using Renpy and figure out how to use it
 - I need to figure out how to import the images of our projects
+- Both partners will import both of our projects. Gabby will make the foundation and once we get the gist and pattern of how to make a visual novel. We will make 2 branching paths where each showcases our projects and thought process.
