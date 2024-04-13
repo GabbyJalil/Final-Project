@@ -11,7 +11,8 @@ Gabby
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-(Should we introduce what the freshman arch students are doing this past fall semester and a table of contents for each project, Iar?)
+(Should we introduce what the freshman arch students were doing this past fall semester and a table of contents for each project
+Should we give the option to choose what project among the 5 to choose from or just the 2 Arch students?)
 Gabby
 - the user has the option to choose me or Iar's projects through the spring semester. After choosing, the user has the option to move forward or backward to see the projects and our thoughts on it. After the user gets to the end of seeing all of that one student's  project, they can choose to see the other person's  projects or end the program?
 
@@ -37,8 +38,9 @@ Gabby
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-- being able to look at the other's person's projects after seeing the last student's. It'd also be nice if we could receive some user input on what they think.
+- being able to look at the other person's projects after seeing the last student's. It'd also be nice if we could receive some user input on what they think. Additionally, it'd be nice if the user could choose what project they want to see out of the 5 rather than just choosing which Arch student's  projects they want to see.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
--
+- I need to learn how to make a visual novel using Renpy
+- I need to figure out how to import the images of our projects
