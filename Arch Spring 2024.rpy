@@ -3,13 +3,32 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Eileen")
+define i = Character("Gabby")
 
 
 # The game starts here.
 
 label start:
+    scene bg classroom
+    show gabby happy    # transition/transforms
+    show gabby at right #left/center top change position of images
+    show gabby happy at left with move #pixellate/dissolve/vpunch images
+    hide gabby happy
+    call love #to call the function/label can jump back to statement
+    jump love # to skip to another area
+menu:
+    "Beep":
+        show gabby happy at right
+        $ animal = 'fox' #python statement
+    "Boop":
+        show gabby sad at center
+    if 1 + 2 == 3:
+        $ return true
 
+
+label gabproj:
+
+label iarproj:
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
