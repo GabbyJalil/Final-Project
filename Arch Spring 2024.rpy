@@ -9,13 +9,15 @@ define i = Character("Gabby")
 # The game starts here.
 
 label start:
-    scene bg classroom
-    show gabby happy    # transition/transforms
-    show gabby at right #left/center top change position of images
-    show gabby happy at left with move #pixellate/dissolve/vpunch images
-    hide gabby happy
-    call love #to call the function/label can jump back to statement
-    jump love # to skip to another area
+    #scene bg classroom
+    show proj 11
+    "Gabby" "This is my first project of the semester"    # transition/transforms
+    #show gabby at right #left/center top change position of images
+    #show gabby happy at left with move #pixellate/dissolve/vpunch images
+    #hide gabby happy
+    #call love #to call the function/label can jump back to statement
+    #jump love # to skip to another area
+"""
 menu:
     "Beep":
         show gabby happy at right
@@ -24,6 +26,7 @@ menu:
         show gabby sad at center
     if 1 + 2 == 3:
         $ return true
+
 
 
 label gabproj:
@@ -48,5 +51,5 @@ label iarproj:
     e "Once you add a story, pictures, and music, you can release it to the world!"
 
     # This ends the game.
-
+"""
     return
