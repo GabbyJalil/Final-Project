@@ -4,7 +4,7 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define g = Character("beep")
+define g = Character("Gabby")
 define i = Character("Iaroslav")
 
 
