@@ -2,11 +2,11 @@
 
 #### Your name
 
-TODO
+Geubrinarizky Jalil
 
 #### Your section leader's name
 
-TODO
+
 
 #### Project title
 
