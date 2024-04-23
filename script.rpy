@@ -1,4 +1,4 @@
-﻿
+
 define g = Character("Gabby")
 define i = Character("Iaroslav")
 
@@ -153,17 +153,17 @@ label ioptions:
                 jump i5
 
 label i1:
-    show proj 11 at top
+    show a 1 at top
     $ iar1 = 1
     $ iprojcompleted += 1
     jump ioptions
 label i2:
-    show proj 21 at top
+    show a 2 at top
     $ iar2 = 1
     $ iprojcompleted += 1
     jump ioptions
 label i3:
-    show proj 12 at top
+    show a 3 at top
     $ iar3 = 1
     $ iprojcompleted += 1
     jump ioptions
