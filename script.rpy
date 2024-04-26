@@ -5,8 +5,8 @@ define i = Character("Iaroslav")
 label start:
     scene white
     "THIS PROJECT IS CALLED: Architecture Spring 2024"
-    "CODE: GEUBRINARIZKY JALIL"
-    "IMAGES: IAROSLAV BUTIN"
+    "GEUBRINARIZKY JALIL"
+    "IAROSLAV BUTIN"
 
     "Hello, people"
 
