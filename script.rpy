@@ -238,5 +238,7 @@ label oops:
     jump ioptions
 
 label end:
-    "this is the end"
+    "This is the end"
+    "Hoped you liked it"
+    "CREDITS: Code made by Gabby / Images implemented by Iar and Gabby / Script made by Iar and Gabby"
     return
